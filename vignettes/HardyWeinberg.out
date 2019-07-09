@@ -1,0 +1,25 @@
+\BOOKMARK [1][-]{Section.0.Introduction.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{Section.1.Hardy-Weinberg equilibrium.1}{Hardy-Weinberg equilibrium}{}% 2
+\BOOKMARK [1][-]{Section.2.Classical autosomal tests for Hardy-Weinberg equilibrium.1}{Classical autosomal tests for Hardy-Weinberg equilibrium}{}% 3
+\BOOKMARK [2][-]{Subsection.3.0.Chi-square test.2}{Chi-square test}{Section.2.Classical autosomal tests for Hardy-Weinberg equilibrium.1}% 4
+\BOOKMARK [2][-]{Subsection.3.1.Likelihood ratio test.2}{Likelihood ratio test}{Section.2.Classical autosomal tests for Hardy-Weinberg equilibrium.1}% 5
+\BOOKMARK [2][-]{Subsection.3.2.Exact test.2}{Exact test}{Section.2.Classical autosomal tests for Hardy-Weinberg equilibrium.1}% 6
+\BOOKMARK [2][-]{Subsection.3.3.Permutation test.2}{Permutation test}{Section.2.Classical autosomal tests for Hardy-Weinberg equilibrium.1}% 7
+\BOOKMARK [2][-]{Subsection.3.4.Power calculations.2}{Power calculations}{Section.2.Classical autosomal tests for Hardy-Weinberg equilibrium.1}% 8
+\BOOKMARK [2][-]{Subsection.3.5.Missing data.2}{Missing data}{Section.2.Classical autosomal tests for Hardy-Weinberg equilibrium.1}% 9
+\BOOKMARK [1][-]{Section.3.X-chromosomal tests for Hardy-Weinberg equilibrium.1}{X-chromosomal tests for Hardy-Weinberg equilibrium}{}% 10
+\BOOKMARK [1][-]{Section.4.HWE and gender allele frequencies.1}{HWE and gender allele frequencies}{}% 11
+\BOOKMARK [1][-]{Section.5.Graphics for Hardy-Weinberg equilibrium.1}{Graphics for Hardy-Weinberg equilibrium}{}% 12
+\BOOKMARK [2][-]{Subsection.6.0.Scatter plots of genotype frequencies.2}{Scatter plots of genotype frequencies}{Section.5.Graphics for Hardy-Weinberg equilibrium.1}% 13
+\BOOKMARK [2][-]{Subsection.6.1.The ternary plot.2}{The ternary plot}{Section.5.Graphics for Hardy-Weinberg equilibrium.1}% 14
+\BOOKMARK [2][-]{Subsection.6.2.Log-ratio plots.2}{Log-ratio plots}{Section.5.Graphics for Hardy-Weinberg equilibrium.1}% 15
+\BOOKMARK [2][-]{Subsection.6.3.Q-Q plots.2}{Q-Q plots}{Section.5.Graphics for Hardy-Weinberg equilibrium.1}% 16
+\BOOKMARK [1][-]{Section.6.An example session.1}{An example session}{}% 17
+\BOOKMARK [2][-]{Subsection.7.0.Installation.2}{Installation}{Section.6.An example session.1}% 18
+\BOOKMARK [2][-]{Subsection.7.1.Testing autosomal markers for HWE.2}{Testing autosomal markers for HWE}{Section.6.An example session.1}% 19
+\BOOKMARK [2][-]{Subsection.7.2.Testing X-chromosomal markers for HWE.2}{Testing X-chromosomal markers for HWE}{Section.6.An example session.1}% 20
+\BOOKMARK [2][-]{Subsection.7.3.Testing sets of markers for HWE.2}{Testing sets of markers for HWE}{Section.6.An example session.1}% 21
+\BOOKMARK [2][-]{Subsection.7.4.Power computation.2}{Power computation}{Section.6.An example session.1}% 22
+\BOOKMARK [2][-]{Subsection.7.5.Simulating data.2}{Simulating data}{Section.6.An example session.1}% 23
+\BOOKMARK [2][-]{Subsection.7.6.Graphics for HWE.2}{Graphics for HWE}{Section.6.An example session.1}% 24
+\BOOKMARK [1][-]{Section.7.Discussion.1}{Discussion}{}% 25
